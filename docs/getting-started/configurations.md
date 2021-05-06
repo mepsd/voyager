@@ -53,7 +53,7 @@ If you only want to overwrite a single controller, you might consider adding the
 <?php
 
 'models' => [
-    //'namespace' => 'App\\',
+    //'namespace' => 'App\\Models\\',
 ],
 ```
 
